@@ -25,6 +25,7 @@ Bi-Weekly Coding Challenge #4
 
 ### !!! WARNING !!!
 If you are using Windows, Linux, or OS X, download cfop.py
+
 If you want to run this code on repl.it, please download cfop_replit.py
 
 ### How to
